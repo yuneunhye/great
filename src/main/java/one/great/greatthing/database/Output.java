@@ -13,8 +13,13 @@ public class Output {
     List<Record> list=new ArrayList<>();
 
     public static void main(String[] args) {
-        Record record=new Record();
+        Record record = new Record();
         record.setPosNo("1");
-    }
 
+
+        List<String> outputs = new ArrayList<>();
+        outputs.add("Hello");
+
+
+    }
 }
