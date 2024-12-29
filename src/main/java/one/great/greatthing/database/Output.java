@@ -20,7 +20,7 @@ public class Output {
 
 
         List<String> outputs = new ArrayList<>();
-        outputs.add("Hello judy");
+        outputs.add("Hello judyyyy");
 
 
     }
