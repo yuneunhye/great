@@ -12,5 +12,9 @@ public class Output {
 
     List<Record> list=new ArrayList<>();
 
+    public static void main(String[] args) {
+        Record record=new Record();
+        record.setPosNo("1");
+    }
 
 }
